@@ -3,7 +3,7 @@
 Buka `Pengaturan` -> `Tema` -> `Tema Editor` -> gulir ke bawah dan pilih `MT Manager`
 
 ## Foto📸
-<a href="https://ibb.co.com/C3hqB6fG"><img src="https://i.ibb.co.com/C3hqB6fG/20250323-035338.jpg" alt="20250323-035338" border="0"></a>
+<a href="https://ibb.co.com/kVC1Hw8n"><img src="https://i.ibb.co.com/NgBSVJjh/Screenshot-20250325-145859.jpg" alt="Screenshot-20250325-145859" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>logo ig png</a><br />
 
 ## jangan lupa join grups
 
