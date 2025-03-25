@@ -1,6 +1,6 @@
-# Neovim Theme
+# MT Manager [ Editor Theme Shell ]
 
-Buka `Pengaturan` -> `Tema` -> `Tema Editor` -> gulir ke bawah dan pilih `Neovim Theme🌍`
+Buka `Pengaturan` -> `Tema` -> `Tema Editor` -> gulir ke bawah dan pilih `MT Manager`
 
 ## Foto📸
 
