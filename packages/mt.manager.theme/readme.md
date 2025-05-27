@@ -8,4 +8,4 @@ Buka `Pengaturan` -> `Tema` -> `Tema Editor` -> gulir ke bawah dan pilih `MT Man
 
 ## Community
 
-[WhatsApp](https://kontol) | [Telegram](https://t.me/REY_RESOUCE)
+[WhatsApp](https://chat.whatsapp.com/Gomu4BhzluT3gaXRHmNs4n) | [Telegram](https://t.me/REY_RESOUCE)
