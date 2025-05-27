@@ -2,23 +2,23 @@
   "id": "mt.manager.theme",
   "name": "MT Manager (shell) theme",
   "main": "main.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "readme": "readme.md",
   "icon": "icon.png",
   "files": [],
   "minVersionCode": 290,
   "price": 0,
   "license": "MIT",
-  "keywords": ["theme", "mt manager"],
+  "keywords": ["Theme", "Manager MT Editor"],
   "contributors": [
-    "name": "TarnaWijaya",
-    "email": "tarnaindramayuu@gmail.com",
-    "github": "XTarnaWijaya"
-  ],
-  "author": {
     "name": "Reynaldi",
     "email": "erncreator@gmail.com",
-    "github": "1Reynaldi",
-    "url": "https://github.com/1Reynaldi"
+    "github": "1Reynaldi"
+  ],
+  "author": {
+    "name": "TarnaWijaya",
+    "email": "tarnaindramayuu@gmail.com",
+    "github": "XTarnaWijaya",
+    "url": "https://github.com/1Reynaldi/Acode.git"
   }
 }
